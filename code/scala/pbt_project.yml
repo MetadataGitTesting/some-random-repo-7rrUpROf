@@ -1,0 +1,22 @@
+name: janelle.gutmann
+description: User fork
+version: 1
+author: florencio.gaylord@hotmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: florencio.gaylord@hotmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-04 18:02:35'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Marc_Hackett:
+    name: Marc_Hackett
+    description: Really solid info
+    createdAt: '2022-01-04 18:02:35'
+    author: florencio.gaylord@hotmail.com
